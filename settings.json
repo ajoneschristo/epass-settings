@@ -1,40 +1,31 @@
 {
-  "sheetUrl": "https://docs.google.com/spreadsheets/d/1DeB1yLM4IJ4um7gbx7nc5_3dks2dR9gZVZqOx1a8zb4/edit?gid=1885604846#gid=1885604846",
+  "sheetUrl": "https://docs.google.com/spreadsheets/d/1DeB1yLM4IJ4um7gbx7nc5_3dks2dR9gZVZqOx1a8zb4",
   "sheetName": "Rake and Road Despatch",
   "scriptUrl": "https://script.google.com/macros/s/AKfycbzwJGEYgCOcQDrvNnqE7iQp2-XhfsSReA8ARhiI1HVMMRhbc0KuTIkrO55Hql8EZ5K9Eg/exec",
-  "autoScreenshot": true,
   "slots": [
     {
       "label": "11:00 AM",
       "time": "11:00",
       "col": "L",
-      "autoFrom": "11:00",
-      "screenshotRange": "I5:O28",
-      "driveFileId": ""
+      "autoFrom": "11:00"
     },
     {
       "label": "1:30 PM",
       "time": "13:30",
       "col": "M",
-      "autoFrom": "13:30",
-      "screenshotRange": "",
-      "driveFileId": ""
+      "autoFrom": "13:30"
     },
     {
       "label": "5:30 PM",
       "time": "17:30",
       "col": "N",
-      "autoFrom": "17:30",
-      "screenshotRange": "I5:O28",
-      "driveFileId": ""
+      "autoFrom": "17:30"
     },
     {
       "label": "4:30 PM",
       "time": "16:30",
       "col": "",
-      "autoFrom": "16:30",
-      "screenshotRange": "",
-      "driveFileId": ""
+      "autoFrom": "16:30"
     }
   ],
   "mines": [
