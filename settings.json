@@ -63,13 +63,13 @@
     {
       "label": "Siarmal",
       "colCodes": "5162",
-      "sheetRow": 12,
+      "sheetRow": 0,
       "collieryName": "Siarmal OCP"
     },
     {
       "label": "Basundhara(W)",
       "colCodes": "5025",
-      "sheetRow": 13,
+      "sheetRow": 0,
       "collieryName": "Basundhara (W) OCP"
     },
     {
