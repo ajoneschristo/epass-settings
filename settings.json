@@ -17,16 +17,16 @@
       "autoFrom": "16:45"
     },
     {
-      "label": "5:30 PM",
-      "time": "17:30",
-      "col": "N",
-      "autoFrom": "17:30"
-    },
-    {
       "label": "9:45 PM",
       "time": "21:45",
-      "col": "",
+      "col": "N",
       "autoFrom": "21:45"
+    },
+    {
+      "label": "4:30 PM",
+      "time": "16:30",
+      "col": "",
+      "autoFrom": "16:30"
     }
   ],
   "mines": [
