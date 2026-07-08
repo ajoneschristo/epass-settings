@@ -5,16 +5,16 @@
   "scriptUrl": "https://script.google.com/macros/s/AKfycbzwJGEYgCOcQDrvNnqE7iQp2-XhfsSReA8ARhiI1HVMMRhbc0KuTIkrO55Hql8EZ5K9Eg/exec",
   "slots": [
     {
-      "label": "11:00 AM",
-      "time": "11:00",
+      "label": "1:45 PM",
+      "time": "13:45",
       "col": "L",
-      "autoFrom": "11:00"
+      "autoFrom": "13:45"
     },
     {
-      "label": "1:30 PM",
-      "time": "13:30",
+      "label": "4:45 PM",
+      "time": "16:45",
       "col": "M",
-      "autoFrom": "13:30"
+      "autoFrom": "16:45"
     },
     {
       "label": "5:30 PM",
@@ -23,10 +23,10 @@
       "autoFrom": "17:30"
     },
     {
-      "label": "4:30 PM",
-      "time": "16:30",
+      "label": "9:45 PM",
+      "time": "21:45",
       "col": "",
-      "autoFrom": "16:30"
+      "autoFrom": "21:45"
     }
   ],
   "mines": [
