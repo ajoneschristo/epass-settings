@@ -39,6 +39,12 @@
       "time": "22:00",
       "col": "Q",
       "autoFrom": "22:00"
+    },
+    {
+      "label": "4:30 PM",
+      "time": "16:30",
+      "col": "",
+      "autoFrom": "16:30"
     }
   ],
   "mines": [
