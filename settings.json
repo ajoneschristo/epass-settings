@@ -7,37 +7,37 @@
     {
       "label": "10:00 AM",
       "time": "10:00",
-      "col": "L",
+      "col": "M",
       "autoFrom": "10:00"
     },
     {
       "label": "12:00 PM",
       "time": "12:00",
-      "col": "M",
+      "col": "N",
       "autoFrom": "12:00"
     },
     {
       "label": "2:00 PM",
       "time": "14:00",
-      "col": "N",
+      "col": "O",
       "autoFrom": "14:00"
     },
     {
       "label": "4:00 PM",
       "time": "16:00",
-      "col": "O",
+      "col": "P",
       "autoFrom": "16:00"
     },
     {
       "label": "8:00 PM",
       "time": "20:00",
-      "col": "P",
+      "col": "Q",
       "autoFrom": "20:00"
     },
     {
       "label": "10:00 PM",
       "time": "22:00",
-      "col": "Q",
+      "col": "R",
       "autoFrom": "22:00"
     },
     {
