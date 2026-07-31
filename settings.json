@@ -23,10 +23,10 @@
       "autoFrom": "14:00"
     },
     {
-      "label": "4:00 PM",
-      "time": "16:00",
+      "label": "5:00 PM",
+      "time": "17:00",
       "col": "P",
-      "autoFrom": "16:00"
+      "autoFrom": "17:00"
     },
     {
       "label": "8:00 PM",
