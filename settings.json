@@ -97,6 +97,12 @@
       "collieryName": "Orient UG Mine + HBI"
     },
     {
+      "label": "IB Valley Coal Washery",
+      "colCodes": "5068",
+      "sheetRow": 0,
+      "collieryName": "IB Valley Coal Washery"
+    },
+    {
       "label": "IBCF",
       "colCodes": "",
       "sheetRow": 15,
@@ -170,12 +176,6 @@
       "sheetRow": 28,
       "collieryName": "MCL Total",
       "isGrandTotal": true
-    },
-    {
-      "label": "IB Valley Coal Washery",
-      "colCodes": "5068",
-      "sheetRow": 0,
-      "collieryName": "IB Valley Coal Washery"
     }
   ]
 }
