@@ -97,6 +97,12 @@
       "collieryName": "Orient UG Mine + HBI"
     },
     {
+      "label": "IB Coal Washery",
+      "colCodes": "5162",
+      "sheetRow": 0,
+      "collieryName": ""
+    },
+    {
       "label": "IBCF",
       "colCodes": "",
       "sheetRow": 15,
