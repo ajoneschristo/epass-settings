@@ -170,6 +170,12 @@
       "sheetRow": 28,
       "collieryName": "MCL Total",
       "isGrandTotal": true
+    },
+    {
+      "label": "IB Valley Coal Washery",
+      "colCodes": "5068",
+      "sheetRow": 0,
+      "collieryName": "IB Valley Coal Washery"
     }
   ]
 }
